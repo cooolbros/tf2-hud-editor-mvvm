@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tf2-hud-editor-mvvm", "tf2-hud-editor-mvvm\tf2-hud-editor-mvvm.csproj", "{758DE004-1F57-4ADA-80BD-126017E6B71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{758DE004-1F57-4ADA-80BD-126017E6B71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758DE004-1F57-4ADA-80BD-126017E6B71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758DE004-1F57-4ADA-80BD-126017E6B71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758DE004-1F57-4ADA-80BD-126017E6B71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E08805-189B-469F-8C0C-242404747C6F}
+	EndGlobalSection
+EndGlobal
